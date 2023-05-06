@@ -52,7 +52,7 @@ const About = () => {
           <h2 className='head-text'>Lemur Beach</h2>
           <p className='p-text'>
             Lemur Beach also known as Ganapathipuram beach, located in
-            Kanyiakumari, is one of the most popular tourist destinations in
+            Kanyakumari, is one of the most popular tourist destinations in
             southern India. Known for its pristine beaches and breathtaking
             views, this beach offers visitors a chance to relax and unwind while
             enjoying the natural beauty of the area.

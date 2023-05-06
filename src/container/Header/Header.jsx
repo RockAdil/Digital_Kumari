@@ -55,7 +55,7 @@ function Header() {
             </div>
           </nav>
           <img src={homeImg} alt='Home' />
-          <div className='home-title'>Welcome to Kaniya kumari</div>
+          <div className='home-title'>Welcome to Kanya Kumari</div>
 
           <div className='home-multi-img'>
             <img src={homeImgMulti} alt='home-multi-img' />
